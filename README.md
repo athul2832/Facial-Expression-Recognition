@@ -134,13 +134,7 @@ If you open an issue or PR, please include:
 - steps to reproduce (if bug)
 - small code snippet or notebook cell demonstrating the problem/fix
 
-## License
-If you want to add a license to this repository, include a LICENSE file. A permissive choice is MIT. This README does not add or change a license for the repository — check the repo for an existing LICENSE file.
-
 ## Acknowledgements
 - Public datasets and open-source frameworks (TensorFlow / Keras / PyTorch / OpenCV)
 - Tutorials and community examples that inspired the notebooks
 
-- generate a requirements.txt based on the notebooks,
-- extract runnable scripts from the notebooks (train.py / eval.py / demo.py),
-- or add a simple LICENSE file (MIT) and a CONTRIBUTING.md — tell me which you prefer and I will create the files.
